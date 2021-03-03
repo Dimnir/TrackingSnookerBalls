@@ -34,7 +34,7 @@ For each frame:
 
 6) Drawing a colored ball for each contour at its center on a 2D generated table.
 
-![steps](/images/steps.png)
+![steps image](/images/steps_image.png)
 
 
 - for __designing the 2D table__ I just used cv2 functions `Circle` , `Line` . markdowns according to this [link](https://www.snookerbilliardspool.co.uk/TableMarking.asp)
