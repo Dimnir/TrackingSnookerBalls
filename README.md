@@ -1,9 +1,9 @@
-# Model generates a 2D "top-view" of the snooker table
+## Model generates a 2D "top-view" of the snooker table
 
 ## Output:
 ![input_output](/images/input_output_img.png)
 
-#### [Link to output video (YouTube) link:](https://www.youtube.com/watch?v=RLief79B7YQ)
+#### [output video (YouTube) link:](https://www.youtube.com/watch?v=RLief79B7YQ)
 ---
 
 
