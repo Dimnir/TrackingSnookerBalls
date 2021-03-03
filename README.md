@@ -1,12 +1,12 @@
 #### Overview:
 <br />
-**Projects Goal:** Tracking Snooker balls, generating 2D top view.
+__Projects Goal:__ Tracking Snooker balls, generating 2D top view.
 <br />
-**Environment:** Jupyter Notebook, Python, OpenCV
+__Environment:__ Jupyter Notebook, Python, OpenCV
 <br />
 <br />
-Final result should look like this:
-<br />
+Final result should look like this: <br />
+
 ![input_output](/images/input_output_img.png)
 
 #### Output video - [YouTube link](https://www.youtube.com/watch?v=RLief79B7YQ)
@@ -36,8 +36,7 @@ For each frame:
 ![steps](/images/steps.png)
 
 <br />
-* for **designing the 2D table** I just used cv2 functions `Circle`,`Line`. markdowns according to this
-[link](https://www.snookerbilliardspool.co.uk/TableMarking.asp).
+* for __designing the 2D table__ I just used cv2 functions `Circle`,`Line`. markdowns according to this [link](https://www.snookerbilliardspool.co.uk/TableMarking.asp)
 
 <br />
 
