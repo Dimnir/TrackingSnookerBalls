@@ -2,7 +2,7 @@
 
 ![input_output](/images/input_output_img.png)
 
-#### [output video (YouTube) link:](https://www.youtube.com/watch?v=RLief79B7YQ)
+#### Output video (YouTube) - [link:](https://www.youtube.com/watch?v=RLief79B7YQ)
 ---
 
 ## General info
