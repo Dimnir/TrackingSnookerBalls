@@ -1,9 +1,9 @@
 #### Overview:
-<br />
-__Projects Goal:__ Tracking Snooker balls, generating 2D top view.
-<br />
-__Environment:__ Jupyter Notebook, Python, OpenCV
-<br />
+
+__Projects Goal:__ Tracking Snooker balls, generating 2D top view. <br />
+
+__Environment:__ Jupyter Notebook, Python, OpenCV <br />
+
 <br />
 Final result should look like this: <br />
 
