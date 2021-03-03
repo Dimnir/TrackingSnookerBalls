@@ -6,7 +6,9 @@
 ---
 
 ## General info
-This project is about creating a simple model which can detect snooker balls and generate a 2D "top-view" of the table, using Python (openCV, NumPy, Matplotlib)
+This project is about creating a simple model which can detect snooker balls and generate a 2D "top-view" of the table.
+ <br />
+Using Python: openCV, NumPy, Matplotlib
  <br />
  <br />
  
