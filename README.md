@@ -1,4 +1,4 @@
-## Model generates a 2D "top-view" of the snooker table
+## Creating a model which can generate a 2D "top-view" of the snooker table:
 
 ![input_output](/images/input_output_img.png)
 
