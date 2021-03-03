@@ -1,7 +1,7 @@
 # Tracking Snooker balls using python
 
 
-<img src="https://ibb.co/fMb3kvW" width="90%"></img> <img 
+<img src="https://ibb.co/fMb3kvW" width="90%"></img> <img>
 
 
 ## Output video link:
