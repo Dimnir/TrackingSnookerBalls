@@ -1,4 +1,4 @@
-#### Overview:
+### Overview:
 
 __Projects Goal:__ Tracking Snooker balls, generating 2D top view. <br />
 
@@ -12,7 +12,7 @@ Final result should look like this: <br />
 #### Output video - [YouTube link](https://www.youtube.com/watch?v=RLief79B7YQ)
 ---
 
-#### General info:
+### General info:
 <br />
 In this project I created a model which detects Snooker balls in a video and generates a 2D version of the table.
 
@@ -41,7 +41,7 @@ For each frame:
 
 <br />
 
-#### Overall:
+### Overall:
 
 The model can track the balls and generate a 2D version of the table, although the final output is not perfect. <br />
 This is a simple model which does not know position of balls and does not remember balls locations, it only projects 'what it sees' no matter how many balls or what colors they are.
