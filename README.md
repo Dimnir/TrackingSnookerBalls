@@ -16,6 +16,7 @@ Final result should look like this: <br />
 <br />
 In this project I created a model which detects Snooker balls in a video and generates a 2D version of the table.
 
+input video: [YouTube link](https://www.youtube.com/watch?v=hw02UKK4Kb0&t=590s)
 
 #### Steps:
 
