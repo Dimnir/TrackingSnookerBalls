@@ -8,4 +8,6 @@
 ## General info
 This project is about creating a simple model which can detect snooker balls and generate a 2D "top-view" of the table, using Python (openCV, NumPy, Matplotlib)
  <br />
-more info and code can be found in the jupyter notebook - ( [`TrackingSnookerBalls.ipynb`](testfolder/testfile.txt)).
+ <br />
+ 
+- more info and code can be found in the jupyter notebook - ( [`TrackingSnookerBalls.ipynb`](/TrackingSnookerBalls.ipynb)).
