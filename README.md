@@ -12,4 +12,4 @@ Using Python: openCV, NumPy, Matplotlib
  <br />
  <br />
  
-- more info and code can be found in the jupyter notebook - ( [`TrackingSnookerBalls.ipynb`](/TrackingSnookerBalls.ipynb)).
+- more info and code can be found in the notebook - [`TrackingSnookerBalls.ipynb`](/TrackingSnookerBalls.ipynb).
