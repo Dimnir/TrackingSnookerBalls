@@ -1,4 +1,4 @@
-# Tracking Snooker balls using python
+# Model generates a 2D "top-view" of the snooker table
 
 ## Output:
 ![input_output](/images/input_output_img.png)
