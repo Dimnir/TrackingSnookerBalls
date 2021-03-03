@@ -1,12 +1,10 @@
 # Tracking Snooker balls using python
 
-
+## Output:
 ![input_output](/images/input_output_img.png)
+---
 
-
-## Output video link:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RLief79B7YQ/0.jpg)](https://www.youtube.com/watch?v=RLief79B7YQ)
+[Link to output video (YouTube) link:](https://www.youtube.com/watch?v=RLief79B7YQ)
 
 
 ## General info
