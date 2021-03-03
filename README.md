@@ -35,8 +35,8 @@ For each frame:
 
 ![steps](/images/steps.png)
 
-<br />
-* for __designing the 2D table__ I just used cv2 functions `Circle`,`Line`. markdowns according to this [link](https://www.snookerbilliardspool.co.uk/TableMarking.asp)
+
+- for __designing the 2D table__ I just used cv2 functions `Circle` , `Line` . markdowns according to this [link](https://www.snookerbilliardspool.co.uk/TableMarking.asp)
 
 <br />
 
