@@ -33,9 +33,9 @@ For each frame:
 5) Calculating average color inside of each contour to get each balls color.
 
 6) Drawing a colored ball for each contour at its center on a 2D generated table.
-
+---
 ![steps image](/images/steps_image.png)
-
+---
 
 - for __designing the 2D table__ I just used cv2 functions `Circle` , `Line` . markdowns according to this [link](https://www.snookerbilliardspool.co.uk/TableMarking.asp)
 
